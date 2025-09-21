@@ -1,0 +1,7 @@
+{
+  "2ea12c41-eca1-4103-9d13-a571853c5281": {
+    "source": "sample1.txt",
+    "chunk_index": 0,
+    "text": "Transformer models are neural networks widely used in NLP. They use self-attention. Applications include summarization and question answering."
+  }
+}
